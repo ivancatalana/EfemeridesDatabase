@@ -2,7 +2,7 @@
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
-   <p align="center">
+   <p align="left">
    <img src="https://img.shields.io/badge/Maven-5.4.4-blueviolet">
    </p>
    
